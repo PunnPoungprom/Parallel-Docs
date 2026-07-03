@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Parallel',
   description: 'Luau scripting for the Parallel Minecraft engine',
-  base: '/Parallel/',
+  base: '/Parallel-Docs/',
   lastUpdated: true,
   themeConfig: {
     nav: [
