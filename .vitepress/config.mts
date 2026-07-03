@@ -42,6 +42,7 @@ export default defineConfig({
           { text: 'ItemService', link: '/api/itemservice' },
           { text: 'CameraService', link: '/api/cameraservice' },
           { text: 'Lighting', link: '/api/lighting' },
+          { text: 'GuiService', link: '/api/guiservice' },
           { text: 'RenderService', link: '/api/renderservice' },
           { text: 'FiguraService', link: '/api/figuraservice' },
           { text: 'DebrisService', link: '/api/debrisservice' },
@@ -52,6 +53,7 @@ export default defineConfig({
         text: 'Objects',
         items: [
           { text: 'Player', link: '/api/player' },
+          { text: 'GuiElement', link: '/api/guielement' },
           { text: 'AnimationTrack', link: '/api/animationtrack' },
           { text: 'EntityHandle', link: '/api/entityhandle' },
           { text: 'ItemStack', link: '/api/itemstack' },
